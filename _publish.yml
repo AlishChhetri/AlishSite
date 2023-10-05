@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 4940f594-67d1-4cfc-a3ce-91f7a8ab4110
+      url: 'https://jovial-marzipan-d07133.app'
