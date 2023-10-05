@@ -1,12 +1,10 @@
 ---
-title: "Blog"
+title: "Join the Team"
 toc: true
 page-layout: full
 listing:
   page-size: 15
-  contents:
-    - "../blog/**/*.qmd"
-    - "!../blog/index.qmd"
+  contents: posts
   sort:
     - "date desc"
     - "title"
@@ -17,7 +15,7 @@ listing:
   filter-ui: true
   fields: [author, date, title, reading-time, description, categories]
   feed:
-    title: "Blog"
+    title: "DevLogs"
 execute:
   freeze: auto
 ---
