@@ -15,5 +15,5 @@ console.print(
 ```
 
 The page that you were looking for is not available on the [Developer Developer
-site](https://www.developerdevelopment.com/). Please use the menu at the top of
+site](https://jovial-marzipan-d07133.netlify.app/). Please use the menu at the top of
 the page to find an available resource!

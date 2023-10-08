@@ -1,1 +1,1 @@
-Sitemap: https://www.developerdevelopment.com/sitemap.xml
+Sitemap: https://jovial-marzipan-d07133.netlify.app/sitemap.xml
