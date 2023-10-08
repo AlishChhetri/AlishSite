@@ -14,8 +14,8 @@ website:
   page-navigation: true
   favicon: "icons/devdev-logo-favicon.svg"
   open-graph: true
-  site-url: https://www.developerdevelopment.com/
-  repo-url: https://github.com/TeamDevDev/www.developerdevelopment.com
+  site-url: https://jovial-marzipan-d07133.netlify.app
+  repo-url: https://github.com/AlishChhetri/AlishSite
   issue-url: https://github.com/TeamDevDev/www.developerdevelopment.com/issues/new
   repo-actions: [source, edit, issue]
   repo-branch: "master"
