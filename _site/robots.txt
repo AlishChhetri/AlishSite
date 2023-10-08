@@ -1,1 +1,1 @@
-Sitemap: https://jovial-marzipan-d07133.netlify.app/sitemap.xml
+Sitemap: https://chastendocs.netlify.app/sitemap.xml
