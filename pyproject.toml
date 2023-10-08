@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "test"
+name = "developerdevelopment"
 version = "0.1.0"
 description = ""
-authors = ["Alish Chhetri <chhetri01@allegheny.edu>"]
+authors = ["Gregory M. Kapfhammer <gkapfham@allegheny.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
